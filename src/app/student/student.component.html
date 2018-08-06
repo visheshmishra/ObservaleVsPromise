@@ -1,0 +1,12 @@
+<table>
+    <thead>
+        <tr><th>Index</th><th>Roll Number </th><th>Name</th><th>Class</th><th>Age</th></tr>
+    </thead>
+    <tbody>
+        <ng-container *ngFor="let student of studentList; trackBy:trackByRollNo;let idx = index">
+            <tr>
+                <td>{{idx}}</td><td>{{student.roll_no}}</td><td>{{student.name}}</td><td>{{student.class}}</td><td>{{student.age}}</td>
+            </tr>
+            </ng-container>
+    </tbody>
+</table>

@@ -1,0 +1,40 @@
+{
+    "students": [{
+            "roll_no": 101,
+            "name": "A",
+            "class": 4,
+            "age": 10
+        },
+        {
+            "roll_no": 102,
+            "name": "B",
+            "class": 5,
+            "age": 11
+        },
+        {
+            "roll_no": 103,
+            "name": "C",
+            "class": 3,
+            "age": 9
+        },
+        {
+            "roll_no": 104,
+            "name": "D",
+            "class": 2,
+            "age": 8
+        },
+        {
+            "roll_no": 105,
+            "name": "E",
+            "class": 3,
+            "age": 9
+        },
+        {
+            "roll_no": 106,
+            "name": "F",
+            "class": 4,
+            "age": 10
+        }
+    ]
+
+}
